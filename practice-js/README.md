@@ -12,15 +12,24 @@ Este projeto foi criado em JavaScript puro para gerar senhas aleatórias com let
 
 1. Clone este repositório
 2. Execute o script com Node.js:
+3. Use o editor de código que você desejar. 
 
-```bash
-node script.js
 
-### 3. **Salvar e subir no GitHub**
+# English version
 
-Depois de criar e salvar o `README.md`, execute no terminal:
+# Password Generator
+This project was created using pure JavaScript to generate random passwords with letters, numbers, and symbols.
 
-```bash
-git add README.md
-git commit -m "Adicionando README"
-git push
+## Features
+Generates passwords with custom length
+
+Includes uppercase letters, lowercase letters, numbers, and symbols
+
+Easy to use via the console
+
+## How to Use
+Clone this repository
+
+Run the script with Node.js
+
+Use any code editor you prefer
